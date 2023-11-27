@@ -1,6 +1,6 @@
-# tes
+# TES v1
 
-The Trade Evaluation Suggestion (TES) is the centralmost entry point into the Conduct System's active platforms. The document project is maintained by registered business particles which pass viable billets of provision, amendment and mandate to promote development of financial information technologies.
+The Trade Evaluation Suggestion (TES) is the centralmost entry point into the Conduct System's active platforms. The document projects are maintained by registered business particles which pass viable billets of provision, amendment and mandate to promote development of financial information technologies.
 
 
 +Introduction to TES Version One:
@@ -17,4 +17,4 @@ The Trade Evaluation Suggestion (TES) is the centralmost entry point into the Co
 
  Trophy Chip Authentication and Official Releases
 
- 
+ Sequester Audits and Network Confettii
