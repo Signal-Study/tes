@@ -12,3 +12,9 @@ The Trade Evaluation Suggestion (TES) is the centralmost entry point into the Co
  Leaderboards and Award Batons
  
  Postulate Assembly and Network Readings
+
+ Accelerators and Dossier Clearinghouses
+
+ Trophy Chip Authentication and Official Releases
+
+ 
