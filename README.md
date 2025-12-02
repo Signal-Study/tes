@@ -6,6 +6,13 @@ The Trade Evaluation Suggestion (TES) is the centralmost entry point into the Co
 +Introduction to TES Version One:
 
  Semesters and Billets
+  - Built using business particles by business machines
+  - Revenue streams determine class (Revenue Drops)
+  - Asset Bibliographics determine outcome of semester events
+  - Numbermaiden registers and validates business machines
+  - Dossier House archives matured and expired registrations
+  - Occucode/Orderfiche processes transaction suite data
+  - Network Treasury stores circulating business machines
  
  Evaluation Sessions and Report Calendars
  
